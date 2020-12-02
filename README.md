@@ -11,5 +11,5 @@ We aim to create short video clips highlighting the three main events in a socce
 3. Niranjani Wagh <i>nwagh@usc.edu</i>
 4. Prakhar Agarwal <i>prakhara@usc.edu</i>
 
-Website Link: <br>
+## Website
 https://self-generating-highlights.my-free.website/
