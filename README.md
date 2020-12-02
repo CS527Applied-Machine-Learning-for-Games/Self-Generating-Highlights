@@ -1,7 +1,7 @@
 # Self-Generating-Highlights
 
 ## Introduction 
-The goal of Self Generating Highlights is to create an automatic video summarizer for Soccer Matches.
+The goal of Self Generating Highlights is to create an automatic video summarizer for Soccer Matches.<br>
 We aim to create short video clips highlighting the three main events in a soccer match - goal, substitution, and penalty cards.
 
 ## Team Members
