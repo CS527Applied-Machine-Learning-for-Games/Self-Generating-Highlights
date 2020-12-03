@@ -24,9 +24,9 @@ In self-generating highlights, with the help of 3D-CNN and an action recognition
 
 **Demo** : https://drive.google.com/file/d/1lesjIldZle5C6lR5nst2rdP-3cyRt6dn/view
 
-**EDD** : https://drive.google.com/file/d/1qYl3Y_Z98ygyISBt7yk-uRSYl4Da8cyF/view
+**EDD** : https://drive.google.com/file/d/1zzoGLrJcasgzW78qbmGMiOQtJUY1uYYs/view
 
-**Technical Paper** : https://drive.google.com/file/d/1HCbWR_wQNjui1YLKffWKpU1HrwzRSe7r/view
+**Technical Paper** : https://drive.google.com/file/d/1e6x-uPukCkps3GINtp4BUt8N92s5nP0L/view
 
 **Presentation** : https://drive.google.com/file/d/1Ec_c7H-64AhMgTF4EwGw0qKVFutPcHmT/view
 
